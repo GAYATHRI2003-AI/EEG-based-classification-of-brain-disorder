@@ -51,6 +51,8 @@ The trained models can then be used to classify EEG signals into Normal, MCI, or
 - **Non-Invasive, Cost-Effective Brain Analysis**
 - **Integration with Wearable EEG Devices**
 
+## Note
+Add the dataset in your Google Drive, unzip it , copy the path and use it in the code.
 
 ## License
 This project is licensed under the **MIT License**. Feel free to contribute and improve!
