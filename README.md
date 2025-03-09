@@ -14,6 +14,7 @@ CogNet is a deep learning-based framework designed to classify EEG signals into 
 The system is trained on EEG data from the **Chung-Ang University Hospital EEG (CAUEEG) repository**, which contains **1,388 EEG recordings** with labeled cognitive states.
 Later the dataset is manually classified based on the disorders.
 
+
 ## Methodology
 1. **Data Collection & Preprocessing**:
    - EEG signals are filtered (1-40 Hz), artifacts removed using **Independent Component Analysis (ICA)**.
