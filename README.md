@@ -56,6 +56,9 @@ The trained models can then be used to classify EEG signals into Normal, MCI, or
 ## Note
 Add the dataset in your Google Drive, unzip it , copy the path and use it in the code.
 
+## Acknowledgments
+Dr. Nagaraj Halemani and Chung-Ang University Hospital EEG (CAUEEG) repository for providing the comprehensive EEG dataset
+
 ## License
 This project is licensed under the **MIT License**. Feel free to contribute and improve!
 
@@ -63,6 +66,7 @@ This project is licensed under the **MIT License**. Feel free to contribute and 
 For any queries or contributions, please reach out to **gaya3devi.2003b@gmail.com**.
 
 ---
+
 
 This README provides a structured overview of the CogNet project, covering key features, methodology, dataset, installation steps, results, and contributors. Let me know if you need any modifications!
 
